@@ -8,7 +8,7 @@
 
 <p align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira%20Code&color=00FF00&size=25&lines=Hi+there+I+am+Mohamed+Hassan+work+as+Front-End+developer%2C" alt="Typing Animation">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira%20Code&color=00FF00&size=25&center=true&vCenter=true&width=600&height=50&lines=Hi+there%2C+I+am+Mohamed+Hassan%2C;a+Front-End+developer.;Welcome+to+my+GitHub+profile!" alt="Typing Animation">
   </a>
 </p>
 
